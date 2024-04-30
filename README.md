@@ -6,7 +6,7 @@ https://timbermoons.github.io/Blok-Kirma-Oyunu/
 https://www.youtube.com/watch?v=TUn0GVYadjM
 # Oyun hakkındaki bilgiler
 2 boyutlu bir blok kırma oyunudur. 10 seviyeden oluşur.
-# Bu oyunda HTML, CSS ve Javascript kullanılmıştır.
+# Bu oyunda HTML, CSS ve JavaScript kullanılmıştır.
 # Oyun içi görseller
 ![oyun1](https://github.com/timbermoons/Blok-Kirma-Oyunu/assets/113468821/283d17f9-40d4-42b0-87e7-2b8ace1c0d0a)
 ![oyun2](https://github.com/timbermoons/Blok-Kirma-Oyunu/assets/113468821/99fe10c5-4092-45a5-96cc-d83e94783302)
